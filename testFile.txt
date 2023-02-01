@@ -1,1 +1,2 @@
-This is a sapmple file of Github1
+This is a sample file of Github
+Now I am using this file with editing throigh vim!
